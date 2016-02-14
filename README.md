@@ -32,13 +32,13 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/NN8XkzY.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/NN8XkzY.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Implementing the Search Controller was kind of tricky.
 
 ## License
 
